@@ -37,4 +37,5 @@ return {
   { import = "astrocommunity.syntax.hlargs-nvim" },
   { import = "astrocommunity.utility.neodim" },
   { import = "astrocommunity.file-explorer.oil-nvim" },
+  { import = "astrocommunity.note-taking.neorg" },
 }
